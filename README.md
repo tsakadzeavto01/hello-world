@@ -1,2 +1,5 @@
 # hello-world
-just anthor repository
+
+გამარჯობა ხალხო
+
+ეს არის ახალი ინფო გვერდი
